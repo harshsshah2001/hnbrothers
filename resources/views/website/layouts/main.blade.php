@@ -1,5 +1,5 @@
-@import('website.layouts.header')
+@include('website.layouts.header')
 
 @yield('content')
 
-@import('website.layouts.footer')
+@include('website.layouts.footer')

@@ -3,16 +3,21 @@
 
 
 <!-- Mirrored from html.themewant.com/ekomart/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 05 Aug 2026 02:50:35 GMT -->
+
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Ekomart-Grocery-Store(e-Commerce) HTML Template: A sleek, responsive, and user-friendly HTML template designed for online grocery stores.">
+    <meta name="description"
+        content="Ekomart-Grocery-Store(e-Commerce) HTML Template: A sleek, responsive, and user-friendly HTML template designed for online grocery stores.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Grocery, Store, stores">
     <title>Ekomart-Grocery-Store(e-Commerce) HTML Template</title>
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
-    <!-- plugins css -->
-    <link rel="stylesheet preload" href="assets/css/plugins.css" as="style">
-    <link rel="stylesheet preload" href="assets/css/style.css" as="style">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/fav.png') }}">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet preload" href="{{ asset('assets/css/plugins.css') }}" as="style">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet preload" href="{{ asset('assets/css/style.css') }}" as="style">
 
 </head>
 
@@ -28,7 +33,8 @@
                     <div class="col-lg-12">
                         <div class="bwtween-area-header-top">
                             <div class="discount-area">
-                                <p class="disc">FREE delivery & 40% Discount for next 3 orders! Place your 1st order in.</p>
+                                <p class="disc">FREE delivery & 40% Discount for next 3 orders! Place your 1st order in.
+                                </p>
                                 <div class="countdown">
                                     <div class="countDown">10/05/2025 10:20:00</div>
                                 </div>
@@ -225,14 +231,18 @@
                             <div class="actions-area">
                                 <div class="search-btn" id="searchs">
 
-                                    <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M15.75 14.7188L11.5625 10.5312C12.4688 9.4375 12.9688 8.03125 12.9688 6.5C12.9688 2.9375 10.0312 0 6.46875 0C2.875 0 0 2.9375 0 6.5C0 10.0938 2.90625 13 6.46875 13C7.96875 13 9.375 12.5 10.5 11.5938L14.6875 15.7812C14.8438 15.9375 15.0312 16 15.25 16C15.4375 16 15.625 15.9375 15.75 15.7812C16.0625 15.5 16.0625 15.0312 15.75 14.7188ZM1.5 6.5C1.5 3.75 3.71875 1.5 6.5 1.5C9.25 1.5 11.5 3.75 11.5 6.5C11.5 9.28125 9.25 11.5 6.5 11.5C3.71875 11.5 1.5 9.28125 1.5 6.5Z" fill="#1F1F25"></path>
+                                    <svg width="17" height="16" viewBox="0 0 17 16" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M15.75 14.7188L11.5625 10.5312C12.4688 9.4375 12.9688 8.03125 12.9688 6.5C12.9688 2.9375 10.0312 0 6.46875 0C2.875 0 0 2.9375 0 6.5C0 10.0938 2.90625 13 6.46875 13C7.96875 13 9.375 12.5 10.5 11.5938L14.6875 15.7812C14.8438 15.9375 15.0312 16 15.25 16C15.4375 16 15.625 15.9375 15.75 15.7812C16.0625 15.5 16.0625 15.0312 15.75 14.7188ZM1.5 6.5C1.5 3.75 3.71875 1.5 6.5 1.5C9.25 1.5 11.5 3.75 11.5 6.5C11.5 9.28125 9.25 11.5 6.5 11.5C3.71875 11.5 1.5 9.28125 1.5 6.5Z"
+                                            fill="#1F1F25"></path>
                                     </svg>
 
                                 </div>
                                 <div class="menu-btn" id="menu-btn">
 
-                                    <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <svg width="20" height="16" viewBox="0 0 20 16" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
                                         <rect y="14" width="20" height="2" fill="#1F1F25"></rect>
                                         <rect y="7" width="20" height="2" fill="#1F1F25"></rect>
                                         <rect width="20" height="2" fill="#1F1F25"></rect>
@@ -252,7 +262,7 @@
                                 </a>
                                 <div class="btn-border-only cart category-hover-header">
                                     <i class="fa-sharp fa-regular fa-cart-shopping"></i>
-                                    <span  class="text">My Cart</span>
+                                    <span class="text">My Cart</span>
                                     <span class="number">2</span>
                                     <div class="category-sub-menu card-number-show">
                                         <h5 class="shopping-cart-number">Shopping Cart (03)</h5>
@@ -263,7 +273,8 @@
                                                 </div>
                                                 <div class="details">
                                                     <a href="shop-details.html">
-                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken</h5>
+                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                        </h5>
                                                     </a>
                                                     <div class="number">
                                                         1 <i class="fa-regular fa-x"></i>
@@ -282,7 +293,8 @@
                                                 </div>
                                                 <div class="details">
                                                     <a href="shop-details.html">
-                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken</h5>
+                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                        </h5>
                                                     </a>
                                                     <div class="number">
                                                         1 <i class="fa-regular fa-x"></i>
@@ -301,7 +313,8 @@
                                                 </div>
                                                 <div class="details">
                                                     <a href="shop-details.html">
-                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken</h5>
+                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                        </h5>
                                                     </a>
                                                     <div class="number">
                                                         1 <i class="fa-regular fa-x"></i>
@@ -321,14 +334,19 @@
                                                 </div>
                                                 <div class="single-progress-area-incard">
                                                     <div class="progress">
-                                                        <div class="progress-bar wow fadeInLeft" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                        <div class="progress-bar wow fadeInLeft" role="progressbar"
+                                                            style="width: 80%" aria-valuenow="25" aria-valuemin="0"
+                                                            aria-valuemax="100"></div>
                                                     </div>
                                                 </div>
-                                                <p>Spend More <span>$125.00</span> to reach <span>Free Shipping</span></p>
+                                                <p>Spend More <span>$125.00</span> to reach <span>Free Shipping</span>
+                                                </p>
                                             </div>
-                                            <div class="button-wrapper d-flex align-items-center justify-content-between">
+                                            <div
+                                                class="button-wrapper d-flex align-items-center justify-content-between">
                                                 <a href="cart.html" class="rts-btn btn-primary ">View Cart</a>
-                                                <a href="checkout.html" class="rts-btn btn-primary border-only">CheckOut</a>
+                                                <a href="checkout.html"
+                                                    class="rts-btn btn-primary border-only">CheckOut</a>
                                             </div>
                                         </div>
                                     </div>
@@ -370,10 +388,14 @@
                                                                 <div class="single-megamenu-wrapper">
                                                                     <p class="title">Shop Layout</p>
                                                                     <ul>
-                                                                        <li><a href="shop-grid-sidebar.html">Shop Grid Sidebar</a></li>
-                                                                        <li><a href="shop-list-sidebar.html">Shop list Sidebar</a></li>
-                                                                        <li><a href="shop-grid-top-filter.html">Shop Top Filter Grid</a></li>
-                                                                        <li><a href="shop-list-top-filter.html">Shop Top Filter List</a></li>
+                                                                        <li><a href="shop-grid-sidebar.html">Shop Grid
+                                                                                Sidebar</a></li>
+                                                                        <li><a href="shop-list-sidebar.html">Shop list
+                                                                                Sidebar</a></li>
+                                                                        <li><a href="shop-grid-top-filter.html">Shop Top
+                                                                                Filter Grid</a></li>
+                                                                        <li><a href="shop-list-top-filter.html">Shop Top
+                                                                                Filter List</a></li>
                                                                     </ul>
                                                                 </div>
                                                                 <!-- single item areas end -->
@@ -381,10 +403,18 @@
                                                                 <div class="single-megamenu-wrapper">
                                                                     <p class="title">Shop Details</p>
                                                                     <ul>
-                                                                        <li><a class="sub-b" href="shop-details.html">Shop Details</a></li>
-                                                                        <li><a class="sub-b" href="shop-details-2.html">Shop Details V2</a></li>
-                                                                        <li><a class="sub-b" href="shop-details-right-sidebar.html">Shop Details V3</a></li>
-                                                                        <li><a class="sub-b" href="shop-details-4.html">Shop Details V4</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details.html">Shop
+                                                                                Details</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details-2.html">Shop Details
+                                                                                V2</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details-right-sidebar.html">Shop
+                                                                                Details V3</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details-4.html">Shop Details
+                                                                                V4</a></li>
                                                                     </ul>
                                                                 </div>
                                                                 <!-- single item areas end -->
@@ -392,10 +422,18 @@
                                                                 <div class="single-megamenu-wrapper">
                                                                     <p class="title">Product Feature</p>
                                                                     <ul>
-                                                                        <li><a class="sub-b" href="shop-details-variable.html">Variable product</a></li>
-                                                                        <li><a class="sub-b" href="shop-details-affiliats.html">Affiliate product</a></li>
-                                                                        <li><a class="sub-b" href="shop-details-group.html">Shop Details Group</a></li>
-                                                                        <li><a class="sub-b" href="shop-compare.html">Shop Compare</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details-variable.html">Variable
+                                                                                product</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details-affiliats.html">Affiliate
+                                                                                product</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-details-group.html">Shop
+                                                                                Details Group</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="shop-compare.html">Shop
+                                                                                Compare</a></li>
                                                                     </ul>
                                                                 </div>
                                                                 <!-- single item areas end -->
@@ -403,17 +441,23 @@
                                                                 <div class="single-megamenu-wrapper">
                                                                     <p class="title">Shop Others</p>
                                                                     <ul>
-                                                                        <li><a class="sub-b" href="cart.html">Cart</a></li>
-                                                                        <li><a class="sub-b" href="checkout.html">Checkout</a></li>
-                                                                        <li><a class="sub-b" href="trackorder.html">Track Order</a></li>
+                                                                        <li><a class="sub-b" href="cart.html">Cart</a>
+                                                                        </li>
+                                                                        <li><a class="sub-b"
+                                                                                href="checkout.html">Checkout</a></li>
+                                                                        <li><a class="sub-b"
+                                                                                href="trackorder.html">Track Order</a>
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                                 <!-- single item areas end -->
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-4">
-                                                            <a href="shop-grid-sidebar.html" class="feature-add-megamenu-area">
-                                                                <img src="assets/images/feature/05.jpg" alt="feature_product">
+                                                            <a href="shop-grid-sidebar.html"
+                                                                class="feature-add-megamenu-area">
+                                                                <img src="assets/images/feature/05.jpg"
+                                                                    alt="feature_product">
                                                             </a>
                                                         </div>
                                                     </div>
@@ -440,7 +484,8 @@
                                                 <li><a class="sub-b" href="login.html">Login</a></li>
                                                 <li><a class="sub-b" href="privacy-policy.html">Privacy Policy</a></li>
                                                 <li><a class="sub-b" href="cookies-policy.html">Cookies Policy</a></li>
-                                                <li><a class="sub-b" href="terms-condition.html">Terms & Condition</a></li>
+                                                <li><a class="sub-b" href="terms-condition.html">Terms & Condition</a>
+                                                </li>
                                                 <li><a class="sub-b" href="404.html">Error</a></li>
                                             </ul>
                                         </li>
@@ -448,8 +493,10 @@
                                             <a class="nav-link" href="#">Blog</a>
                                             <ul class="submenu">
                                                 <li><a class="sub-b" href="blog.html">Blog</a></li>
-                                                <li><a class="sub-b" href="blog-list-left-sidebar.html">Blog List Right Sidebar</a></li>
-                                                <li><a class="sub-b" href="blog-list-right-sidebar.html">Blog List Left Sidebar</a></li>
+                                                <li><a class="sub-b" href="blog-list-left-sidebar.html">Blog List Right
+                                                        Sidebar</a></li>
+                                                <li><a class="sub-b" href="blog-list-right-sidebar.html">Blog List Left
+                                                        Sidebar</a></li>
                                                 <li><a class="sub-b" href="blog-details.html">Blog Details</a></li>
                                             </ul>
                                         </li>
@@ -548,14 +595,14 @@
                                     <input type="text" placeholder="Search for products, categories or brands" required>
                                     <button class="rts-btn btn-primary radious-sm with-icon">
                                         <span class="btn-text">
-                                        Search
-                                    </span>
+                                            Search
+                                        </span>
                                         <span class="arrow-icon">
-                                        <i class="fa-light fa-magnifying-glass"></i>
-                                    </span>
+                                            <i class="fa-light fa-magnifying-glass"></i>
+                                        </span>
                                         <span class="arrow-icon">
-                                        <i class="fa-light fa-magnifying-glass"></i>
-                                    </span>
+                                            <i class="fa-light fa-magnifying-glass"></i>
+                                        </span>
                                     </button>
                                 </form>
                             </div>
@@ -581,7 +628,8 @@
                                                     </div>
                                                     <div class="details">
                                                         <a href="shop-details.html">
-                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken</h5>
+                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                            </h5>
                                                         </a>
                                                         <div class="number">
                                                             1 <i class="fa-regular fa-x"></i>
@@ -600,7 +648,8 @@
                                                     </div>
                                                     <div class="details">
                                                         <a href="shop-details.html">
-                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken</h5>
+                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                            </h5>
                                                         </a>
                                                         <div class="number">
                                                             1 <i class="fa-regular fa-x"></i>
@@ -619,7 +668,8 @@
                                                     </div>
                                                     <div class="details">
                                                         <a href="shop-details.html">
-                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken</h5>
+                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                            </h5>
                                                         </a>
                                                         <div class="number">
                                                             1 <i class="fa-regular fa-x"></i>
@@ -639,14 +689,19 @@
                                                     </div>
                                                     <div class="single-progress-area-incard">
                                                         <div class="progress">
-                                                            <div class="progress-bar wow fadeInLeft" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            <div class="progress-bar wow fadeInLeft" role="progressbar"
+                                                                style="width: 80%" aria-valuenow="25" aria-valuemin="0"
+                                                                aria-valuemax="100"></div>
                                                         </div>
                                                     </div>
-                                                    <p>Spend More <span>$125.00</span> to reach <span>Free Shipping</span></p>
+                                                    <p>Spend More <span>$125.00</span> to reach <span>Free
+                                                            Shipping</span></p>
                                                 </div>
-                                                <div class="button-wrapper d-flex align-items-center justify-content-between">
+                                                <div
+                                                    class="button-wrapper d-flex align-items-center justify-content-between">
                                                     <a href="cart.html" class="rts-btn btn-primary ">View Cart</a>
-                                                    <a href="checkout.html" class="rts-btn btn-primary border-only">CheckOut</a>
+                                                    <a href="checkout.html"
+                                                        class="rts-btn btn-primary border-only">CheckOut</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -656,14 +711,18 @@
                                 <div class="actions-area">
                                     <div class="search-btn" id="search">
 
-                                        <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M15.75 14.7188L11.5625 10.5312C12.4688 9.4375 12.9688 8.03125 12.9688 6.5C12.9688 2.9375 10.0312 0 6.46875 0C2.875 0 0 2.9375 0 6.5C0 10.0938 2.90625 13 6.46875 13C7.96875 13 9.375 12.5 10.5 11.5938L14.6875 15.7812C14.8438 15.9375 15.0312 16 15.25 16C15.4375 16 15.625 15.9375 15.75 15.7812C16.0625 15.5 16.0625 15.0312 15.75 14.7188ZM1.5 6.5C1.5 3.75 3.71875 1.5 6.5 1.5C9.25 1.5 11.5 3.75 11.5 6.5C11.5 9.28125 9.25 11.5 6.5 11.5C3.71875 11.5 1.5 9.28125 1.5 6.5Z" fill="#1F1F25"></path>
+                                        <svg width="17" height="16" viewBox="0 0 17 16" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M15.75 14.7188L11.5625 10.5312C12.4688 9.4375 12.9688 8.03125 12.9688 6.5C12.9688 2.9375 10.0312 0 6.46875 0C2.875 0 0 2.9375 0 6.5C0 10.0938 2.90625 13 6.46875 13C7.96875 13 9.375 12.5 10.5 11.5938L14.6875 15.7812C14.8438 15.9375 15.0312 16 15.25 16C15.4375 16 15.625 15.9375 15.75 15.7812C16.0625 15.5 16.0625 15.0312 15.75 14.7188ZM1.5 6.5C1.5 3.75 3.71875 1.5 6.5 1.5C9.25 1.5 11.5 3.75 11.5 6.5C11.5 9.28125 9.25 11.5 6.5 11.5C3.71875 11.5 1.5 9.28125 1.5 6.5Z"
+                                                fill="#1F1F25"></path>
                                         </svg>
 
                                     </div>
                                     <div class="menu-btn">
 
-                                        <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <svg width="20" height="16" viewBox="0 0 20 16" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
                                             <rect y="14" width="20" height="2" fill="#1F1F25"></rect>
                                             <rect y="7" width="20" height="2" fill="#1F1F25"></rect>
                                             <rect width="20" height="2" fill="#1F1F25"></rect>
@@ -695,13 +754,16 @@
 
             <nav>
                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                    <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Menu</button>
-                    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Category</button>
+                    <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home"
+                        type="button" role="tab" aria-controls="nav-home" aria-selected="true">Menu</button>
+                    <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile"
+                        type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Category</button>
                 </div>
             </nav>
 
             <div class="tab-content" id="nav-tabContent">
-                <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab"
+                    tabindex="0">
                     <!-- mobile menu area start -->
                     <div class="mobile-menu-main">
                         <nav class="nav-main mainmenu-nav mt--30">
@@ -728,9 +790,12 @@
                                         <li><a class="mobile-menu-link" href="contact.html">Contact</a></li>
                                         <li><a class="mobile-menu-link" href="register.html">Register</a></li>
                                         <li><a class="mobile-menu-link" href="login.html">Login</a></li>
-                                        <li><a class="mobile-menu-link" href="privacy-policy.html">Privacy Policy</a></li>
-                                        <li><a class="mobile-menu-link" href="cookies-policy.html">Cookies Policy</a></li>
-                                        <li><a class="mobile-menu-link" href="terms-condition.html">Terms Condition</a></li>
+                                        <li><a class="mobile-menu-link" href="privacy-policy.html">Privacy Policy</a>
+                                        </li>
+                                        <li><a class="mobile-menu-link" href="cookies-policy.html">Cookies Policy</a>
+                                        </li>
+                                        <li><a class="mobile-menu-link" href="terms-condition.html">Terms Condition</a>
+                                        </li>
                                         <li><a class="mobile-menu-link" href="404.html">Error Page</a></li>
                                     </ul>
                                 </li>
@@ -759,7 +824,8 @@
                                             <a class="main" href="#">Product Feature</a>
                                             <ul class="submenu-third-lvl mm-collapse">
                                                 <li><a href="shop-details-variable.html"></a>Shop Details Variable</li>
-                                                <li><a href="shop-details-affiliats.html"></a>Shop Details Affiliats</li>
+                                                <li><a href="shop-details-affiliats.html"></a>Shop Details Affiliats
+                                                </li>
                                                 <li><a href="shop-details-group.html"></a>Shop Details Group</li>
                                                 <li><a href="shop-compare.html"></a>Shop Compare</li>
                                             </ul>
@@ -778,8 +844,10 @@
                                     <a href="#" class="main">Blog</a>
                                     <ul class="submenu mm-collapse">
                                         <li><a class="mobile-menu-link" href="blog.html">Blog</a></li>
-                                        <li><a class="mobile-menu-link" href="blog-list-left-sidebar.html">Blog Left Sidebar</a></li>
-                                        <li><a class="mobile-menu-link" href="blog-list-right-sidebar.html">Blog List Right Sidebar</a></li>
+                                        <li><a class="mobile-menu-link" href="blog-list-left-sidebar.html">Blog Left
+                                                Sidebar</a></li>
+                                        <li><a class="mobile-menu-link" href="blog-list-right-sidebar.html">Blog List
+                                                Right Sidebar</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -791,7 +859,8 @@
                     </div>
                     <!-- mobile menu area end -->
                 </div>
-                <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
+                <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab"
+                    tabindex="0">
                     <div class="category-btn category-hover-header menu-category">
                         <ul class="category-sub-menu" id="category-active-menu">
                             <li>
@@ -908,5 +977,3 @@
     <!-- header style two End -->
     <!-- rts header area end -->
     <!-- rts header area end -->
-
-
