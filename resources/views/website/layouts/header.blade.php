@@ -14,10 +14,10 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/fav.png') }}">
 
     <!-- Plugins CSS -->
-    <link rel="stylesheet preload" href="{{ asset('assets/css/plugins.css') }}" as="style">
+    <link rel="stylesheet" href="{{ asset('assets/css/plugins.css') }}">
 
     <!-- Main CSS -->
-    <link rel="stylesheet preload" href="{{ asset('assets/css/style.css') }}" as="style">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
 
 </head>
 
@@ -770,7 +770,7 @@
                             <ul class="mainmenu metismenu" id="mobile-menu-active">
                                 <li class="has-droupdown">
                                     <a href="#" class="main">Home</a>
-                                    
+
                                 </li>
                                 <li>
                                     <a href="about.html" class="main">About</a>
