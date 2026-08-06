@@ -134,88 +134,7 @@
                                     "spaceBetween":12}
                                 }
                             }'>
-                                <div class="swiper-wrapper">
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/01.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/02.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/03.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/04.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/05.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/06.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/07.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/08.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/09.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                    <!-- single swiper start -->
-                                    <div class="swiper-slide">
-                                        <a href="shop-grid-sidebar.html" class="single-category-one">
-                                            <img src="assets/images/category/10.png" alt="category">
-                                            <p>Organic Vegetable</p>
-                                        </a>
-                                    </div>
-                                    <!-- single swiper start -->
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -327,503 +246,6 @@
                 <div class="col-lg-12">
                     <div class="title-area-between">
                         <h2 class="title-left">
-                            Featured Grocery
-                        </h2>
-                        <div class="next-prev-swiper-wrapper">
-                            <div class="swiper-button-prev"><i class="fa-regular fa-chevron-left"></i></div>
-                            <div class="swiper-button-next"><i class="fa-regular fa-chevron-right"></i></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="category-area-main-wrapper-one">
-                        <div class="swiper mySwiper-category-1 swiper-data" data-swiper='{
-                            "spaceBetween":16,
-                            "slidesPerView":6,
-                            "loop": true,
-                            "speed": 700,
-                            "navigation":{
-                                "nextEl":".swiper-button-next",
-                                "prevEl":".swiper-button-prev"
-                              },
-                            "breakpoints":{
-                            "0":{
-                                "slidesPerView":1,
-                                "spaceBetween": 12},
-                            "320":{
-                                "slidesPerView":1,
-                                "spaceBetween":12},
-                            "480":{
-                                "slidesPerView":2,
-                                "spaceBetween":12},
-                            "640":{
-                                "slidesPerView":2,
-                                "spaceBetween":16},
-                            "840":{
-                                "slidesPerView":3,
-                                "spaceBetween":16},
-                            "1140":{
-                                "slidesPerView":5,
-                                "spaceBetween":16},
-                            "1540":{
-                                "slidesPerView":5,
-                                "spaceBetween":16},
-                            "1840":{
-                                "slidesPerView":6,
-                                "spaceBetween":16}
-                            }
-                        }'>
-                            <div class="swiper-wrapper">
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/01.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Nestle Cerelac Mixed Fruits &
-                                                    Wheat with Milk</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/02.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Peysan Full Fat Fresh Cottage Cheese</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/03.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Aptamil Gold+ ProNutra Biotik Stage...</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/04.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Abbott Pediasure Chocolate Refill Pack</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/05.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Pastine Mellin Filid Angelo 100% Di Grano Tenero</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/06.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Aussie Bubs Goat Milk Infant Formula Stage 1,</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                                <!-- single swiper start -->
-                                <div class="swiper-slide">
-                                    <div class="single-shopping-card-one">
-                                        <!-- iamge and sction area start -->
-                                        <div class="image-and-action-area-wrapper">
-                                            <a href="shop-details.html" class="thumbnail-preview">
-                                                <div class="badge">
-                                                    <span>25% <br> 
-                                                        Off
-                                                    </span>
-                                                    <i class="fa-solid fa-bookmark"></i>
-                                                </div>
-                                                <img src="assets/images/grocery/15.jpg" alt="grocery">
-                                            </a>
-                                            <div class="action-share-option">
-                                                <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
-                                                </div>
-                                                <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
-                                                </div>
-                                                <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
-                                                    <i class="fa-regular fa-eye"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- iamge and sction area start -->
-                                        <div class="body-content">
-
-                                            <a href="shop-details.html">
-                                                <h4 class="title">Nestle Cerelac Mixed Fruits &
-                                                    Wheat with Milk</h4>
-                                            </a>
-                                            <span class="availability">500g Pack</span>
-                                            <div class="price-area">
-                                                <span class="current">$36.00</span>
-                                                <div class="previous">$36.00</div>
-                                            </div>
-                                            <div class="cart-counter-action">
-                                                <div class="quantity-edit">
-                                                    <input type="text" class="input" value="1">
-                                                    <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
-                                                    </div>
-                                                </div>
-                                                <a href="#" class="rts-btn btn-primary radious-sm with-icon">
-                                                    <div class="btn-text">
-                                                        Add
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                    <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper start -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- rts grocery feature area end -->
-
-    <!-- rts grocery feature area start -->
-    <div class="rts-grocery-feature-area rts-section-gapBottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-area-between">
-                        <h2 class="title-left">
                             Products With Discounts
                         </h2>
                         <div class="countdown">
@@ -868,7 +290,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -911,7 +333,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -956,7 +378,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -999,7 +421,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1050,6 +472,96 @@
     </div>
     <!-- rts grocery feature area end -->
 
+
+    <!-- rts category feature area start -->
+    <div class="category-feature-area rts-section-gapTop">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="single-feature-card bg_image one">
+                        <div class="content-area">
+                            <a href="shop-grid-sidebar.html" class="rts-btn btn-primary">Weekend Discount</a>
+                            <h3 class="title">
+                                Drink Fresh Corn Juice <br>
+                                <span>Good Taste</span>
+                            </h3>
+                            <a href="shop-grid-sidebar.html" class="shop-now-goshop-btn">
+                                <span class="text">Shop Now</span>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="single-feature-card bg_image two">
+                        <div class="content-area">
+                            <a href="shop-grid-sidebar.html" class="rts-btn btn-primary">Weekend Discount</a>
+                            <h3 class="title">
+                                Organic Lemon Flavored
+                                <span>Banana Chips</span>
+                            </h3>
+                            <a href="shop-grid-sidebar.html" class="shop-now-goshop-btn">
+                                <span class="text">Shop Now</span>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="single-feature-card bg_image three">
+                        <div class="content-area">
+                            <a href="shop-grid-sidebar.html" class="rts-btn btn-primary">Weekend Discount</a>
+                            <h3 class="title">
+                                Nozes Pecanera Brasil
+                                <span>Chocolate Snacks</span>
+                            </h3>
+                            <a href="shop-grid-sidebar.html" class="shop-now-goshop-btn">
+                                <span class="text">Shop Now</span>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
+                    <div class="single-feature-card bg_image four">
+                        <div class="content-area">
+                            <a href="shop-grid-sidebar.html" class="rts-btn btn-primary">Weekend Discount</a>
+                            <h3 class="title">
+                                Strawberry Water Drinks
+                                <span>Flavors Awesome</span>
+                            </h3>
+                            <a href="shop-grid-sidebar.html" class="shop-now-goshop-btn">
+                                <span class="text">Shop Now</span>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                                <div class="plus-icon">
+                                    <i class="fa-sharp fa-regular fa-plus"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts category feature area end -->
+
     <!-- best selling groceris -->
     <div class="weekly-best-selling-area rts-section-gap bg_light-1">
         <div class="container">
@@ -1088,7 +600,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1148,7 +660,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1207,7 +719,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1266,7 +778,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1325,7 +837,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1385,7 +897,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1444,7 +956,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1503,7 +1015,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1563,7 +1075,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1622,7 +1134,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1681,7 +1193,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1740,7 +1252,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1805,7 +1317,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1865,7 +1377,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1924,7 +1436,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1983,7 +1495,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2042,7 +1554,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2102,7 +1614,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2161,7 +1673,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2220,7 +1732,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2280,7 +1792,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2339,7 +1851,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2398,7 +1910,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2457,7 +1969,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2521,7 +2033,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2581,7 +2093,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2640,7 +2152,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2699,7 +2211,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2758,7 +2270,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2818,7 +2330,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2877,7 +2389,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2936,7 +2448,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2996,7 +2508,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3055,7 +2567,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3114,7 +2626,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3173,7 +2685,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3237,7 +2749,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3297,7 +2809,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3356,7 +2868,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3415,7 +2927,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3474,7 +2986,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3534,7 +3046,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3593,7 +3105,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3652,7 +3164,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3712,7 +3224,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3771,7 +3283,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3830,7 +3342,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3889,7 +3401,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -4061,7 +3573,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4085,7 +3597,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4109,7 +3621,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4133,7 +3645,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4157,7 +3669,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4181,7 +3693,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4205,7 +3717,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4229,7 +3741,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4423,6 +3935,6 @@
             </div>
         </div>
     </div>
-    <!-- rts top tranding product area end -->  
+    <!-- rts top tranding product area end -->
 
 @endsection
