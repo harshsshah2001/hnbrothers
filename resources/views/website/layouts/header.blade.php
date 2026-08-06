@@ -15,9 +15,10 @@
 
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/plugins.css') }}">
-
+    
     <!-- Main CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
 
 </head>
 
@@ -220,10 +221,10 @@
                                             Search
                                         </div>
                                         <div class="arrow-icon">
-                                            <i class="fa-light fa-magnifying-glass"></i>
+                                            <i class="fa-solid fa-magnifying-glass"></i>
                                         </div>
                                         <div class="arrow-icon">
-                                            <i class="fa-light fa-magnifying-glass"></i>
+                                            <i class="fa-solid fa-magnifying-glass"></i>
                                         </div>
                                     </a>
                                 </form>
@@ -252,7 +253,7 @@
                             </div>
                             <div class="accont-wishlist-cart-area-header">
                                 <a href="account.html" class="btn-border-only account">
-                                    <i class="fa-light fa-user"></i>
+                                    <i class="fa-solid fa-user"></i>
                                     <span>Account</span>
                                 </a>
                                 <a href="wishlist.html" class="btn-border-only wishlist">
@@ -598,10 +599,10 @@
                                             Search
                                         </span>
                                         <span class="arrow-icon">
-                                            <i class="fa-light fa-magnifying-glass"></i>
+                                            <i class="fa-solid fa-magnifying-glass"></i>
                                         </span>
                                         <span class="arrow-icon">
-                                            <i class="fa-light fa-magnifying-glass"></i>
+                                            <i class="fa-solid fa-magnifying-glass"></i>
                                         </span>
                                     </button>
                                 </form>
@@ -609,7 +610,7 @@
                             <div class="main-wrapper-action-2 d-flex">
                                 <div class="accont-wishlist-cart-area-header">
                                     <a href="account.html" class="btn-border-only account">
-                                        <i class="fa-light fa-user"></i>
+                                        <i class="fa-solid fa-user"></i>
                                         Account
                                     </a>
                                     <a href="wishlist.html" class="btn-border-only wishlist">
@@ -747,7 +748,7 @@
 
         <form action="#" class="search-input-area-menu mt--30">
             <input type="text" placeholder="Search..." required>
-            <button><i class="fa-light fa-magnifying-glass"></i></button>
+            <button><i class="fa-solid fa-magnifying-glass"></i></button>
         </form>
 
         <div class="mobile-menu-nav-area tab-nav-btn mt--20">
