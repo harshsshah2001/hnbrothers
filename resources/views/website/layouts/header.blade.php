@@ -770,13 +770,7 @@
                             <ul class="mainmenu metismenu" id="mobile-menu-active">
                                 <li class="has-droupdown">
                                     <a href="#" class="main">Home</a>
-                                    <ul class="submenu mm-collapse">
-                                        <li><a class="mobile-menu-link" href="index-2.html">Home One</a></li>
-                                        <li><a class="mobile-menu-link" href="index-two.html">Home Two</a></li>
-                                        <li><a class="mobile-menu-link" href="index-three.html">Home Three</a></li>
-                                        <li><a class="mobile-menu-link" href="index-four.html">Home Four</a></li>
-                                        <li><a class="mobile-menu-link" href="index-five.html"> Home Five</a></li>
-                                    </ul>
+                                    
                                 </li>
                                 <li>
                                     <a href="about.html" class="main">About</a>
