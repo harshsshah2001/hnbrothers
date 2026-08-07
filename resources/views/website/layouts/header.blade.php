@@ -15,7 +15,7 @@
 
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/plugins.css') }}">
-    
+
     <!-- Main CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
@@ -262,7 +262,7 @@
                                     <span class="number">2</span>
                                 </a>
                                 <div class="btn-border-only cart category-hover-header">
-                                    <i class="fa-sharp fa-regular fa-cart-shopping"></i>
+                                    <i class="fas fa-shopping-cart"></i>
                                     <span class="text">My Cart</span>
                                     <span class="number">2</span>
                                     <div class="category-sub-menu card-number-show">
@@ -618,7 +618,7 @@
                                         Wishlist
                                     </a>
                                     <div class="btn-border-only cart category-hover-header">
-                                        <i class="fa-sharp fa-regular fa-cart-shopping"></i>
+                                        <i class="fa-sharp fa-solid fa-cart-shopping"></i>
                                         <span class="text">My Cart</span>
                                         <div class="category-sub-menu card-number-show">
                                             <h5 class="shopping-cart-number">Shopping Cart (03)</h5>

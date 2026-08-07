@@ -57,10 +57,10 @@
                                                         Shop Now
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-light fa-arrow-right"></i>
+                                                        <i class="fa-solid fa-arrow-right"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-light fa-arrow-right"></i>
+                                                        <i class="fa-solid fa-arrow-right"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -81,10 +81,10 @@
                                                         Shop Now
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-light fa-arrow-right"></i>
+                                                        <i class="fa-solid fa-arrow-right"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-light fa-arrow-right"></i>
+                                                        <i class="fa-solid fa-arrow-right"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -385,7 +385,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -394,10 +394,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -421,8 +421,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -430,10 +430,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -448,7 +448,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -457,10 +457,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -482,8 +482,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -491,10 +491,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -509,7 +509,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -518,10 +518,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -543,8 +543,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -552,10 +552,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -570,7 +570,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -579,10 +579,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -604,8 +604,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -613,10 +613,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -631,7 +631,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -640,10 +640,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -665,8 +665,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -674,10 +674,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -692,7 +692,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -701,10 +701,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -726,8 +726,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -735,10 +735,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -753,7 +753,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -762,10 +762,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -788,8 +788,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -797,10 +797,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -868,7 +868,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -890,8 +890,8 @@
                                                     <div class="quantity-edit">
                                                         <input type="text" class="input" value="1">
                                                         <div class="button-wrapper-action">
-                                                            <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                            <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                            <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                            <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                         </div>
                                                     </div>
                                                     <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -899,10 +899,10 @@
                                                             Add
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                     </a>
                                                 </div>
@@ -911,7 +911,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -933,8 +933,8 @@
                                                     <div class="quantity-edit">
                                                         <input type="text" class="input" value="1">
                                                         <div class="button-wrapper-action">
-                                                            <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                            <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                            <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                            <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                         </div>
                                                     </div>
                                                     <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -942,10 +942,10 @@
                                                             Add
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                     </a>
                                                 </div>
@@ -956,7 +956,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -978,8 +978,8 @@
                                                     <div class="quantity-edit">
                                                         <input type="text" class="input" value="1">
                                                         <div class="button-wrapper-action">
-                                                            <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                            <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                            <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                            <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                         </div>
                                                     </div>
                                                     <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -987,10 +987,10 @@
                                                             Add
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                     </a>
                                                 </div>
@@ -999,7 +999,7 @@
                                         <div class="single-shopping-card-one discount-offer">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1021,8 +1021,8 @@
                                                     <div class="quantity-edit">
                                                         <input type="text" class="input" value="1">
                                                         <div class="button-wrapper-action">
-                                                            <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                            <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                            <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                            <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                         </div>
                                                     </div>
                                                     <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1030,10 +1030,10 @@
                                                             Add
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                         <div class="arrow-icon">
-                                                            <i class="fa-regular fa-cart-shopping"></i>
+                                                            <i class="fa-solid fa-cart-shopping"></i>
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1088,7 +1088,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1097,10 +1097,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <span class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </span>
                                                 <span class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </span>
                                                 <span class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1123,8 +1123,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1132,10 +1132,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1148,7 +1148,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1157,10 +1157,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1182,8 +1182,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1191,10 +1191,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1207,7 +1207,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1216,10 +1216,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1241,8 +1241,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1250,10 +1250,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1266,7 +1266,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1275,10 +1275,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1300,8 +1300,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1309,10 +1309,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1325,7 +1325,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1334,10 +1334,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1360,8 +1360,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1369,10 +1369,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1385,7 +1385,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1394,10 +1394,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1419,8 +1419,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1428,10 +1428,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1444,7 +1444,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1453,10 +1453,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1478,8 +1478,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1487,10 +1487,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1503,7 +1503,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1512,10 +1512,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1538,8 +1538,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1547,10 +1547,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1563,7 +1563,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1572,10 +1572,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1597,8 +1597,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1606,10 +1606,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1622,7 +1622,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1631,10 +1631,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1656,8 +1656,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1665,10 +1665,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1681,7 +1681,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1690,10 +1690,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1715,8 +1715,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1724,10 +1724,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1740,7 +1740,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1749,10 +1749,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1774,8 +1774,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1783,10 +1783,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1805,7 +1805,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1814,10 +1814,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1840,8 +1840,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1849,10 +1849,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1865,7 +1865,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1874,10 +1874,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1899,8 +1899,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1908,10 +1908,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1924,7 +1924,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1933,10 +1933,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -1958,8 +1958,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -1967,10 +1967,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -1983,7 +1983,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -1992,10 +1992,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2017,8 +2017,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2026,10 +2026,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2042,7 +2042,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2051,10 +2051,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2077,8 +2077,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2086,10 +2086,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2102,7 +2102,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2111,10 +2111,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2136,8 +2136,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2145,10 +2145,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2161,7 +2161,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2170,10 +2170,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2195,8 +2195,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2204,10 +2204,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2220,7 +2220,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2229,10 +2229,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2255,8 +2255,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2264,10 +2264,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2280,7 +2280,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2289,10 +2289,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2314,8 +2314,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2323,10 +2323,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2339,7 +2339,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2348,10 +2348,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2373,8 +2373,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2382,10 +2382,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2398,7 +2398,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2407,10 +2407,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2432,8 +2432,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2441,10 +2441,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2457,7 +2457,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2466,10 +2466,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2491,8 +2491,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2500,10 +2500,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2521,7 +2521,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2530,10 +2530,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2556,8 +2556,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2565,10 +2565,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2581,7 +2581,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2590,10 +2590,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2615,8 +2615,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2624,10 +2624,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2640,7 +2640,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2649,10 +2649,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2674,8 +2674,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2683,10 +2683,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2699,7 +2699,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2708,10 +2708,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2733,8 +2733,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2742,10 +2742,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2758,7 +2758,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2767,10 +2767,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2793,8 +2793,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2802,10 +2802,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2818,7 +2818,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2827,10 +2827,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2852,8 +2852,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2861,10 +2861,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2877,7 +2877,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2886,10 +2886,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2911,8 +2911,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2920,10 +2920,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2936,7 +2936,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -2945,10 +2945,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -2971,8 +2971,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -2980,10 +2980,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -2996,7 +2996,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3005,10 +3005,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3030,8 +3030,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3039,10 +3039,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3055,7 +3055,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3064,10 +3064,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3089,8 +3089,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3098,10 +3098,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3114,7 +3114,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3123,10 +3123,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3148,8 +3148,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3157,10 +3157,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3173,7 +3173,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3182,10 +3182,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3207,8 +3207,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3216,10 +3216,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3237,7 +3237,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3246,10 +3246,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3272,8 +3272,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3281,10 +3281,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3297,7 +3297,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3306,10 +3306,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3331,8 +3331,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3340,10 +3340,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3356,7 +3356,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3365,10 +3365,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3390,8 +3390,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3399,10 +3399,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3415,7 +3415,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3424,10 +3424,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3449,8 +3449,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3458,10 +3458,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3474,7 +3474,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3483,10 +3483,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3509,8 +3509,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3518,10 +3518,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3534,7 +3534,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3543,10 +3543,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3568,8 +3568,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3577,10 +3577,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3593,7 +3593,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3602,10 +3602,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3627,8 +3627,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3636,10 +3636,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3652,7 +3652,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3661,10 +3661,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3687,8 +3687,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3696,10 +3696,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3712,7 +3712,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3721,10 +3721,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3746,8 +3746,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3755,10 +3755,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3771,7 +3771,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3780,10 +3780,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3805,8 +3805,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3814,10 +3814,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3830,7 +3830,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3839,10 +3839,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3864,8 +3864,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3873,10 +3873,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -3889,7 +3889,7 @@
                                         <div class="image-and-action-area-wrapper">
                                             <a href="shop-details.html" class="thumbnail-preview">
                                                 <div class="badge">
-                                                    <span>25% <br> 
+                                                    <span>25% <br>
                                                         Off
                                                     </span>
                                                     <i class="fa-solid fa-bookmark"></i>
@@ -3898,10 +3898,10 @@
                                             </a>
                                             <div class="action-share-option">
                                                 <div class="single-action openuptip message-show-action" data-flow="up" title="Add To Wishlist">
-                                                    <i class="fa-light fa-heart"></i>
+                                                    <i class="fa-solid fa-heart"></i>
                                                 </div>
                                                 <div class="single-action openuptip" data-flow="up" title="Compare" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                    <i class="fa-solid fa-arrows-retweet"></i>
+                                                    <i class="fa-solid fa-right-left"></i>
                                                 </div>
                                                 <div class="single-action openuptip cta-quickview product-details-popup-btn" data-flow="up" title="Quick View">
                                                     <i class="fa-regular fa-eye"></i>
@@ -3923,8 +3923,8 @@
                                                 <div class="quantity-edit">
                                                     <input type="text" class="input" value="1">
                                                     <div class="button-wrapper-action">
-                                                        <button class="button"><i class="fa-regular fa-chevron-down"></i></button>
-                                                        <button class="button plus">+<i class="fa-regular fa-chevron-up"></i></button>
+                                                        <button class="button"><i class="fa-solid fa-chevron-down"></i></button>
+                                                        <button class="button plus">+<i class="fa-solid fa-chevron-up"></i></button>
                                                     </div>
                                                 </div>
                                                 <a href="#" class="rts-btn btn-primary radious-sm with-icon">
@@ -3932,10 +3932,10 @@
                                                         Add
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                     <div class="arrow-icon">
-                                                        <i class="fa-regular fa-cart-shopping"></i>
+                                                        <i class="fa-solid fa-cart-shopping"></i>
                                                     </div>
                                                 </a>
                                             </div>
@@ -4061,7 +4061,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4085,7 +4085,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4109,7 +4109,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4133,7 +4133,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4157,7 +4157,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4181,7 +4181,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4205,7 +4205,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4229,7 +4229,7 @@
                                 <div class="single-shopping-card-one tranding-product">
                                     <a href="shop-details.html" class="thumbnail-preview">
                                         <div class="badge">
-                                            <span>25% <br> 
+                                            <span>25% <br>
                                                 Off
                                             </span>
                                             <i class="fa-solid fa-bookmark"></i>
@@ -4282,7 +4282,7 @@
                                     <div class="blog-body">
                                         <div class="top-area">
                                             <div class="single-meta">
-                                                <i class="fa-light fa-clock"></i>
+                                                <i class="fa-solid fa-clock"></i>
                                                 <span>15 Sep, 2023</span>
                                             </div>
                                             <div class="single-meta">
@@ -4318,7 +4318,7 @@
                                     <div class="blog-body">
                                         <div class="top-area">
                                             <div class="single-meta">
-                                                <i class="fa-light fa-clock"></i>
+                                                <i class="fa-solid fa-clock"></i>
                                                 <span>15 Sep, 2023</span>
                                             </div>
                                             <div class="single-meta">
@@ -4354,7 +4354,7 @@
                                     <div class="blog-body">
                                         <div class="top-area">
                                             <div class="single-meta">
-                                                <i class="fa-light fa-clock"></i>
+                                                <i class="fa-solid fa-clock"></i>
                                                 <span>15 Sep, 2023</span>
                                             </div>
                                             <div class="single-meta">
@@ -4390,7 +4390,7 @@
                                     <div class="blog-body">
                                         <div class="top-area">
                                             <div class="single-meta">
-                                                <i class="fa-light fa-clock"></i>
+                                                <i class="fa-solid fa-clock"></i>
                                                 <span>15 Sep, 2023</span>
                                             </div>
                                             <div class="single-meta">
@@ -4423,6 +4423,6 @@
             </div>
         </div>
     </div>
-    <!-- rts top tranding product area end -->  
+    <!-- rts top tranding product area end -->
 
 @endsection

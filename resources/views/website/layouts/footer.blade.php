@@ -154,10 +154,10 @@
                                         Shop Now
                                     </div>
                                     <div class="arrow-icon">
-                                        <i class="fa-light fa-arrow-right"></i>
+                                        <i class="fa-solid fa-arrow-right"></i>
                                     </div>
                                     <div class="arrow-icon">
-                                        <i class="fa-light fa-arrow-right"></i>
+                                        <i class="fa-solid fa-arrow-right"></i>
                                     </div>
                                 </a>
                                 <div class="price-area">
@@ -240,14 +240,14 @@
                                 Add To Cart
                             </div>
                             <div class="arrow-icon">
-                                <i class="fa-regular fa-cart-shopping"></i>
+                                <i class="fa-solid fa-cart-shopping"></i>
                             </div>
                             <div class="arrow-icon">
-                                <i class="fa-regular fa-cart-shopping"></i>
+                                <i class="fa-solid fa-cart-shopping"></i>
                             </div>
                         </a>
                         <a href="javascript:void(0);" class="rts-btn btn-primary ml--20"><i
-                                class="fa-light fa-heart"></i></a>
+                                class="fa-solid fa-heart"></i></a>
                     </div>
                     <div class="product-uniques">
                         <span class="sku product-unipue"><span>SKU: </span> BO1D0MX8SJ</span>
@@ -425,10 +425,10 @@
                                     Add To Cart
                                 </div>
                                 <div class="arrow-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
+                                    <i class="fa-solid fa-cart-shopping"></i>
                                 </div>
                                 <div class="arrow-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
+                                    <i class="fa-solid fa-cart-shopping"></i>
                                 </div>
                             </a>
                         </div>
@@ -440,10 +440,10 @@
                                     Add To Cart
                                 </div>
                                 <div class="arrow-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
+                                    <i class="fa-solid fa-cart-shopping"></i>
                                 </div>
                                 <div class="arrow-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
+                                    <i class="fa-solid fa-cart-shopping"></i>
                                 </div>
                             </a>
                         </div>
@@ -455,10 +455,10 @@
                                     Add To Cart
                                 </div>
                                 <div class="arrow-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
+                                    <i class="fa-solid fa-cart-shopping"></i>
                                 </div>
                                 <div class="arrow-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
+                                    <i class="fa-solid fa-cart-shopping"></i>
                                 </div>
                             </a>
                         </div>
