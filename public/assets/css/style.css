@@ -28588,3 +28588,27 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 
 /*# sourceMappingURL=../maps/style.css.map */
+
+#getOtpBtn,
+#verifyOtpBtn{
+    transition: all .3s ease;
+}
+
+/* Disabled State */
+#getOtpBtn:disabled,
+#verifyOtpBtn:disabled{
+    background: #cfcfcf;
+    border-color: #cfcfcf;
+    color: #ffffff;
+    cursor: not-allowed;
+    opacity: 1; /* browser default opacity દૂર કરવા */
+}
+
+/* Enabled State */
+#getOtpBtn:not(:disabled),
+#verifyOtpBtn:not(:disabled){
+    background: #1f1f1f; /* અથવા તમારી theme નો primary color */
+    border-color: #1f1f1f;
+    color: #ffffff;
+    cursor: pointer;
+}

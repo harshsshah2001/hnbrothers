@@ -481,8 +481,8 @@
                                                 <li><a class="sub-b" href="faq.html">Faq's</a></li>
                                                 <li><a class="sub-b" href="invoice.html">Invoice</a></li>
                                                 <li><a class="sub-b" href="contact.html">Contact</a></li>
-                                                <li><a class="sub-b" href="register.html">Register</a></li>
-                                                <li><a class="sub-b" href="login.html">Login</a></li>
+                                                <li><a class="sub-b" href="register">Register</a></li>
+                                                <li><a class="sub-b" href="login">Login</a></li>
                                                 <li><a class="sub-b" href="privacy-policy.html">Privacy Policy</a></li>
                                                 <li><a class="sub-b" href="cookies-policy.html">Cookies Policy</a></li>
                                                 <li><a class="sub-b" href="terms-condition.html">Terms & Condition</a>
