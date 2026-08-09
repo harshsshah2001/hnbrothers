@@ -13,6 +13,7 @@
     <!-- plugins css -->
     <link rel="stylesheet preload" href="{{ asset('assets/css/plugins.css') }}" as="style" />
     <link rel="stylesheet preload" href="{{ asset('assets/css/style.css') }}" as="style" />
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 
 <body>
@@ -36,72 +37,61 @@
                             <img class="mb--10" src="{{ asset('assets/images/logo/fav.html') }}" alt="logo" />
                         </div>
                         <h3 class="title">Register Into Your Account</h3>
-                        <form action="#" class="registration-form">
+                        <form action="{{ route('register.response') }}" method="POST" id="registerForm">
+                            @csrf
 
-    <div class="input-wrapper">
-        <label for="name">Username*</label>
-        <input type="text" id="name" />
-    </div>
+                            <div class="input-wrapper">
+                                <label for="username">Username*</label>
+                                <input type="text" id="username" name="username" />
+                            </div>
 
-    <div class="input-wrapper">
-        <label for="email">Email*</label>
-        <input type="email" id="email" />
-    </div>
+                            <div class="input-wrapper">
+                                <label for="email">Email*</label>
+                                <input type="email" id="email" name="email" />
+                            </div>
 
-    <div class="input-wrapper">
-        <label for="mobile">Mobile Number*</label>
+                            <div class="input-wrapper">
+                                <label for="mobile">Mobile Number*</label>
 
-        <div class="d-flex gap-2 align-items-end">
-            <input
-                type="tel"
-                id="mobile"
-                maxlength="15"
-                class="form-control"
-                placeholder="Enter Mobile Number"
-            />
+                                <div class="d-flex gap-2 align-items-end">
+                                    <input type="tel" id="mobile" maxlength="15" class="form-control"
+                                        placeholder="Enter Mobile Number" name="phone" />
 
-            <button
-                type="button"
-                id="getOtpBtn"
-                class="rts-btn btn-primary"
-                disabled>
-                Get OTP
-            </button>
-        </div>
-    </div>
+                                    <button type="button" id="getOtpBtn" class="rts-btn btn-primary" disabled>
+                                        Get OTP
+                                    </button>
+                                </div>
+                            </div>
 
-    <div class="input-wrapper">
-        <label for="otp">Enter OTP*</label>
+                            <div class="input-wrapper">
+                                <label for="otp">Enter OTP*</label>
 
-        <div class="d-flex gap-2 align-items-end">
-            <input
-                type="text"
-                id="otp"
-                maxlength="4"
-                class="form-control"
-                placeholder="Enter OTP"
-            />
+                                <div class="d-flex gap-2 align-items-end">
+                                    <input type="text" id="otp" name="otp" maxlength="6" class="form-control"
+                                        placeholder="Enter OTP" />
 
-            <button
-                type="button"
-                id="verifyOtpBtn"
-                class="rts-btn btn-primary"
-                disabled>
-                Verify OTP
-            </button>
-        </div>
-    </div>
+                                    <button type="button" id="verifyOtpBtn" class="rts-btn btn-primary" disabled>
+                                        Verify OTP
+                                    </button>
+                                </div>
 
-    <div class="input-wrapper">
-        <label for="password">Password*</label>
-        <input type="password" id="password" />
-    </div>
+                                <small id="otpMessage"></small>
+                            </div>
 
-    <button class="rts-btn btn-primary">
-        Register Account
-    </button>
+                            <div class="input-wrapper">
+                                <label for="password">Password*</label>
+                                <input type="password" id="password" name="password" />
+                            </div>
 
-</form>
+                            <div class="input-wrapper">
+                                <label for="password_confirmation">Confirm Password*</label>
+                                <input type="password" id="password_confirmation" name="password_confirmation" />
+                            </div>
+
+                            <button type="submit" id="registerBtn" class="rts-btn btn-primary" disabled>
+                                Register Account
+                            </button>
+                        </form>
                     </div>
                 </div>
             </div>
@@ -793,7 +783,7 @@
     <script defer src="assets/js/main.html"></script>
     <!-- header style two End -->
     <script>
-    const mobile = document.getElementById('mobile');
+        const mobile = document.getElementById('mobile');
     const otp = document.getElementById('otp');
 
     const getOtpBtn = document.getElementById('getOtpBtn');
@@ -824,6 +814,264 @@
             verifyOtpBtn.disabled = true;
         }
     });
+    </script>
+
+    <script>
+document.addEventListener('DOMContentLoaded', function () {
+
+    const mobileInput = document.getElementById('mobile');
+    const getOtpBtn = document.getElementById('getOtpBtn');
+
+    const otpInput = document.getElementById('otp');
+    const verifyOtpBtn = document.getElementById('verifyOtpBtn');
+
+    const registerBtn = document.getElementById('registerBtn');
+
+    const otpMessage = document.getElementById('otpMessage');
+
+
+    let otpVerified = false;
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Enable Get OTP button
+    |--------------------------------------------------------------------------
+    */
+
+    mobileInput.addEventListener('input', function () {
+
+        const phone = this.value.trim();
+
+        getOtpBtn.disabled = phone.length < 10;
+
+        // If phone changes, previous OTP verification becomes invalid
+        otpVerified = false;
+
+        verifyOtpBtn.disabled = true;
+        registerBtn.disabled = true;
+
+        otpMessage.innerHTML = '';
+    });
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Get OTP
+    |--------------------------------------------------------------------------
+    */
+
+    getOtpBtn.addEventListener('click', async function () {
+
+        const phone = mobileInput.value.trim();
+
+        if (!phone) {
+            return;
+        }
+
+
+        getOtpBtn.disabled = true;
+        getOtpBtn.innerText = 'Sending...';
+
+
+        try {
+
+            const response = await fetch(
+                "{{ route('otp.send') }}",
+                {
+                    method: 'POST',
+
+                    headers: {
+                        'Content-Type': 'application/json',
+
+                        'X-CSRF-TOKEN':
+                            document.querySelector(
+                                'meta[name="csrf-token"]'
+                            ).getAttribute('content'),
+
+                        'Accept': 'application/json',
+                    },
+
+                    body: JSON.stringify({
+                        phone: phone
+                    })
+                }
+            );
+
+
+            const data = await response.json();
+
+
+            if (!response.ok) {
+
+                alert(data.message ?? 'Something went wrong.');
+
+                getOtpBtn.disabled = false;
+                getOtpBtn.innerText = 'Get OTP';
+
+                return;
+            }
+
+
+            alert('OTP sent successfully.');
+
+            verifyOtpBtn.disabled = false;
+
+            getOtpBtn.innerText = 'OTP Sent';
+
+
+        } catch (error) {
+
+            console.error(error);
+
+            alert('Something went wrong.');
+
+            getOtpBtn.disabled = false;
+            getOtpBtn.innerText = 'Get OTP';
+        }
+
+    });
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Enable Verify OTP
+    |--------------------------------------------------------------------------
+    */
+
+    otpInput.addEventListener('input', function () {
+
+        const otp = this.value.trim();
+
+        verifyOtpBtn.disabled = otp.length !== 6;
+
+    });
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Verify OTP
+    |--------------------------------------------------------------------------
+    */
+
+    verifyOtpBtn.addEventListener('click', async function () {
+
+        const phone = mobileInput.value.trim();
+        const otp = otpInput.value.trim();
+
+
+        if (!phone || otp.length !== 6) {
+            return;
+        }
+
+
+        verifyOtpBtn.disabled = true;
+        verifyOtpBtn.innerText = 'Verifying...';
+
+
+        try {
+
+            const response = await fetch(
+                "{{ route('otp.verify') }}",
+                {
+                    method: 'POST',
+
+                    headers: {
+                        'Content-Type': 'application/json',
+
+                        'X-CSRF-TOKEN':
+                            document.querySelector(
+                                'meta[name="csrf-token"]'
+                            ).getAttribute('content'),
+
+                        'Accept': 'application/json',
+                    },
+
+                    body: JSON.stringify({
+                        phone: phone,
+                        otp: otp
+                    })
+                }
+            );
+
+
+            const data = await response.json();
+
+
+            if (!response.ok) {
+
+                otpMessage.innerHTML = data.message;
+                otpMessage.style.color = 'red';
+
+                verifyOtpBtn.disabled = false;
+                verifyOtpBtn.innerText = 'Verify OTP';
+
+                return;
+            }
+
+
+            /*
+            |--------------------------------------------------------------------------
+            | OTP Verified
+            |--------------------------------------------------------------------------
+            */
+
+            otpVerified = true;
+
+            otpMessage.innerHTML =
+                'Mobile number verified successfully.';
+
+            otpMessage.style.color = 'green';
+
+
+            verifyOtpBtn.innerText = 'Verified';
+
+            verifyOtpBtn.disabled = true;
+
+
+            /*
+            |--------------------------------------------------------------------------
+            | Enable Register Button
+            |--------------------------------------------------------------------------
+            */
+
+            registerBtn.disabled = false;
+
+        } catch (error) {
+
+            console.error(error);
+
+            alert('Something went wrong.');
+
+            verifyOtpBtn.disabled = false;
+            verifyOtpBtn.innerText = 'Verify OTP';
+        }
+
+    });
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Prevent Registration without OTP verification
+    |--------------------------------------------------------------------------
+    */
+
+    document
+        .getElementById('registerForm')
+        .addEventListener('submit', function (event) {
+
+            if (!otpVerified) {
+
+                event.preventDefault();
+
+                alert(
+                    'Please verify your mobile number first.'
+                );
+            }
+
+        });
+
+});
 </script>
 </body>
 
