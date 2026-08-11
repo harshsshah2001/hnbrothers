@@ -10,6 +10,9 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Request as FacadesRequest;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Cache;
+
 
 class AuthController extends Controller
 {
@@ -167,8 +170,144 @@ class AuthController extends Controller
     {
         return view('website.auth.login');
     }
-    public function logincheck(FacadesRequest $request)
-    {
-        
+    public function logincheck(Request $request)
+{
+    /*
+    |--------------------------------------------------------------------------
+    | Validate Login Request
+    |--------------------------------------------------------------------------
+    */
+
+    $request->validate([
+        'email' => [
+            'required',
+            'email',
+        ],
+
+        'otp' => [
+            'required',
+            'digits:6',
+        ],
+
+        'password' => [
+            'required',
+        ],
+    ]);
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Normalize Email
+    |--------------------------------------------------------------------------
+    */
+
+    $email = strtolower(trim($request->email));
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Find Registered User
+    |--------------------------------------------------------------------------
+    */
+
+    $user = WebsiteUser::where('email', $email)->first();
+
+    if (!$user) {
+        return back()
+            ->withErrors([
+                'email' => 'This email address is not registered.',
+            ])
+            ->withInput();
     }
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Get OTP From Cache
+    |--------------------------------------------------------------------------
+    */
+
+    $otpKey = 'login-otp:' . $email;
+
+    $hashedOtp = Cache::get($otpKey);
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Check OTP Exists / Expired
+    |--------------------------------------------------------------------------
+    */
+
+    if (!$hashedOtp) {
+        return back()
+            ->withErrors([
+                'otp' => 'OTP has expired or was not found. Please request a new OTP.',
+            ])
+            ->withInput();
+    }
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Verify OTP
+    |--------------------------------------------------------------------------
+    */
+
+    if (!Hash::check($request->otp, $hashedOtp)) {
+        return back()
+            ->withErrors([
+                'otp' => 'Invalid OTP.',
+            ])
+            ->withInput();
+    }
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Verify Password
+    |--------------------------------------------------------------------------
+    */
+
+    if (!Hash::check($request->password, $user->password)) {
+        return back()
+            ->withErrors([
+                'password' => 'Invalid password.',
+            ])
+            ->withInput();
+    }
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Login User
+    |--------------------------------------------------------------------------
+    */
+
+    Auth::login($user);
+
+    $request->session()->regenerate();
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Remove Used OTP
+    |--------------------------------------------------------------------------
+    */
+
+    Cache::forget($otpKey);
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Redirect To Dashboard
+    |--------------------------------------------------------------------------
+    */
+
+    return redirect()
+        ->route('website.dashboard')
+        ->with(
+            'success',
+            'Login successful.'
+        );
+}
 }
