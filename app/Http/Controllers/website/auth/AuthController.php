@@ -128,27 +128,17 @@ class AuthController extends Controller
             'phone'    => $request->phone,
         ]);
 
-
-        /*
-        |--------------------------------------------------------------------------
-        | Registration Log
-        |--------------------------------------------------------------------------
-        */
-
-        Log::info('Website user registered successfully', [
-            'user_id'  => $user->id,
-            'username' => $user->username,
-            'email'    => $user->email,
-            'phone'    => $user->phone,
-        ]);
-
-
         /*
         |--------------------------------------------------------------------------
         | Remove OTP Verification Status
         |--------------------------------------------------------------------------
         */
+        session([
+            'website_user_id'=>$user->id,
+            'website_username'=>$user->username
+        ]);
 
+        
         $this->websiteService->removeOtpVerification(
             $request->phone
         );

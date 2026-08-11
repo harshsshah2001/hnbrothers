@@ -16,4 +16,5 @@ Route::controller(AuthAuthController::class)->group(function () {
     Route::post('verify-otp', 'verifyOtp')->name('otp.verify');
     Route::post('register', 'registerResponse')->name('register.response');
     Route::get('login', 'login')->name('login');
+    Route::get('logout', 'logout')->name('logout');
 });

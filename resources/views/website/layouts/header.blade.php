@@ -252,6 +252,12 @@
                                 </div>
                             </div>
                             <div class="accont-wishlist-cart-area-header">
+                                @if (session('website_username'))
+                                <a href="{{ route('logout') }}" class="btn-border-only account">
+                                    <i class="fa-solid fa-user"></i>
+                                    <span>Logout</span>
+                                </a>
+                                @endif
                                 <a href="account.html" class="btn-border-only account">
                                     <i class="fa-solid fa-user"></i>
                                     <span>Account</span>
