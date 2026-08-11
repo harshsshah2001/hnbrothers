@@ -9,6 +9,7 @@ use App\Services\WebsiteService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Request as FacadesRequest;
 
 class AuthController extends Controller
 {
@@ -138,7 +139,7 @@ class AuthController extends Controller
             'website_username'=>$user->username
         ]);
 
-        
+
         $this->websiteService->removeOtpVerification(
             $request->phone
         );
@@ -165,5 +166,9 @@ class AuthController extends Controller
     public function login()
     {
         return view('website.auth.login');
+    }
+    public function logincheck(FacadesRequest $request)
+    {
+        
     }
 }
