@@ -17,7 +17,7 @@ class LoginOtpMail extends Mailable
     /**
      * Create a new message instance.
      */
-    public function __construct()
+    public function __construct(public string $otp)
     {
         //
     }
@@ -50,5 +50,11 @@ class LoginOtpMail extends Mailable
     public function attachments(): array
     {
         return [];
+    }
+     public function build()
+    {
+        return $this
+            ->subject('Your Login OTP')
+            ->view('emails.login-otp');
     }
 }

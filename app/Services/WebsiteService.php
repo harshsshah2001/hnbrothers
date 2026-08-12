@@ -6,7 +6,9 @@ use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\RateLimiter;
 use Illuminate\Support\Facades\Log;
-
+use Illuminate\Support\Facades\Mail;
+use App\Models\website\WebsiteUser;
+use App\Mail\LoginOtpMail;
 class WebsiteService
 {
     /**
@@ -202,4 +204,93 @@ class WebsiteService
             'otp-verified:' . trim($phone)
         );
     }
+
+    public function sendLoginOtp(string $email): array
+{
+    $email = strtolower(trim($email));
+
+    /*
+    |--------------------------------------------------------------------------
+    | Check Registered Email
+    |--------------------------------------------------------------------------
+    */
+
+    $user = WebsiteUser::where('email', $email)->first();
+
+    if (!$user) {
+        return [
+            'success' => false,
+            'message' => 'Email is not registered.',
+        ];
+    }
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Rate Limit
+    |--------------------------------------------------------------------------
+    */
+
+    $rateLimitKey = 'login-otp-request:' . $email;
+
+    if (RateLimiter::tooManyAttempts($rateLimitKey, 3)) {
+
+        $seconds = RateLimiter::availableIn($rateLimitKey);
+
+        return [
+            'success' => false,
+            'message' => "Too many OTP requests. Please try again in {$seconds} seconds.",
+        ];
+    }
+
+    RateLimiter::hit($rateLimitKey, 600);
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Generate OTP
+    |--------------------------------------------------------------------------
+    */
+
+    $otp = random_int(100000, 999999);
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Hash OTP
+    |--------------------------------------------------------------------------
+    */
+
+    $hashedOtp = Hash::make($otp);
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Store OTP In Cache
+    |--------------------------------------------------------------------------
+    */
+
+    Cache::put(
+        'login-otp:' . $email,
+        $hashedOtp,
+        now()->addMinutes(10)
+    );
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | Send OTP Email
+    |--------------------------------------------------------------------------
+    */
+
+    Mail::to($email)->send(
+        new LoginOtpMail($otp)
+    );
+
+
+    return [
+        'success' => true,
+        'message' => 'OTP sent successfully to your email.',
+    ];
+}
 }
