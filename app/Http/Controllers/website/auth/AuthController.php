@@ -194,7 +194,6 @@ class AuthController extends Controller
         ],
     ]);
 
-
     /*
     |--------------------------------------------------------------------------
     | Normalize Email
@@ -203,23 +202,22 @@ class AuthController extends Controller
 
     $email = strtolower(trim($request->email));
 
-
     /*
     |--------------------------------------------------------------------------
-    | Find Registered User
+    | Find User
     |--------------------------------------------------------------------------
     */
 
     $user = WebsiteUser::where('email', $email)->first();
 
     if (!$user) {
+
         return back()
             ->withErrors([
                 'email' => 'This email address is not registered.',
             ])
             ->withInput();
     }
-
 
     /*
     |--------------------------------------------------------------------------
@@ -231,21 +229,20 @@ class AuthController extends Controller
 
     $hashedOtp = Cache::get($otpKey);
 
-
     /*
     |--------------------------------------------------------------------------
-    | Check OTP Exists / Expired
+    | Check OTP
     |--------------------------------------------------------------------------
     */
 
     if (!$hashedOtp) {
+
         return back()
             ->withErrors([
                 'otp' => 'OTP has expired or was not found. Please request a new OTP.',
             ])
             ->withInput();
     }
-
 
     /*
     |--------------------------------------------------------------------------
@@ -254,13 +251,13 @@ class AuthController extends Controller
     */
 
     if (!Hash::check($request->otp, $hashedOtp)) {
+
         return back()
             ->withErrors([
                 'otp' => 'Invalid OTP.',
             ])
             ->withInput();
     }
-
 
     /*
     |--------------------------------------------------------------------------
@@ -269,13 +266,13 @@ class AuthController extends Controller
     */
 
     if (!Hash::check($request->password, $user->password)) {
+
         return back()
             ->withErrors([
                 'password' => 'Invalid password.',
             ])
             ->withInput();
     }
-
 
     /*
     |--------------------------------------------------------------------------
@@ -287,19 +284,17 @@ class AuthController extends Controller
 
     $request->session()->regenerate();
 
-
     /*
     |--------------------------------------------------------------------------
-    | Remove Used OTP
+    | Delete Used OTP
     |--------------------------------------------------------------------------
     */
 
     Cache::forget($otpKey);
 
-
     /*
     |--------------------------------------------------------------------------
-    | Redirect To Dashboard
+    | Redirect
     |--------------------------------------------------------------------------
     */
 

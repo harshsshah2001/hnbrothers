@@ -55,6 +55,6 @@ class LoginOtpMail extends Mailable
     {
         return $this
             ->subject('Your Login OTP')
-            ->view('emails.login-otp');
+            ->view('website.emails.login-otp');
     }
 }
