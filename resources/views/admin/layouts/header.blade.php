@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     {{-- <title>Fair D</title> --}}
     <title>
-        title
+        Admin Dashboard 
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
