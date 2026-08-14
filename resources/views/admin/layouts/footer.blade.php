@@ -5,7 +5,7 @@
             <div class="col-12 text-center">
                 <p class="text-center">Copyright © 2026 <a href="#" class="">
                         <strong>username</strong>.</a> All Rights Reserved.
-                        {{-- Designed with <i
+                    {{-- Designed with <i
                         class="bi bi-heart-fill m-1 mb-0 mt-0 fnt-16 text-danger"></i> by <a href="#"><strong>NRJ
                             DIGITAL SOLUTIONS</strong></a> --}}
 
@@ -257,64 +257,64 @@
 </script>
 
 <!-- Vendor js -->
-<script src="{{ asset('assets/js/vendor.min.js') }}"></script>
+<script src="{{ asset('backend/assets/js/vendor.min.js') }}"></script>
 
 <!-- Daterangepicker js -->
-<script src="{{ asset('assets/vendor/daterangepicker/moment.min.js') }}"></script>
-<script src="{{ asset('assets/vendor/daterangepicker/daterangepicker.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/daterangepicker/moment.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/daterangepicker/daterangepicker.js') }}"></script>
 
 <!-- Apex Charts js -->
-<script src="{{ asset('assets/vendor/apexcharts/apexcharts.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/apexcharts/apexcharts.min.js') }}"></script>
 
 <!-- Bootstrap Datepicker Plugin js -->
-<script src="{{ asset('assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
 
 <!-- Bootstrap Timepicker Plugin js -->
-<script src="{{ asset('assets/vendor/bootstrap-timepicker/js/bootstrap-timepicker.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/bootstrap-timepicker/js/bootstrap-timepicker.min.js') }}"></script>
 
 <!-- Vector Map js -->
-<script src="{{ asset('assets/vendor/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.min.js') }}"></script>
-<script src="{{ asset('assets/vendor/admin-resources/jquery.vectormap/maps/jquery-jvectormap-world-mill-en.js') }}">
+<script src="{{ asset('backend/assets/vendor/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.min.js') }}">
+</script>
+<script
+    src="{{ asset('backend/assets/vendor/admin-resources/jquery.vectormap/maps/jquery-jvectormap-world-mill-en.js') }}">
 </script>
 
 <!-- Dashboard App js -->
-<script src="{{ asset('assets/js/pages/dashboard.js') }}"></script>
+<script src="{{ asset('backend/assets/js/pages/dashboard.js') }}"></script>
 
 <!-- Quill Editor js-->
-<script src="{{ asset('assets/vendor/quill/quill.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/quill/quill.min.js') }}"></script>
 
 <!-- Quill Demo js -->
-<script src="{{ asset('assets/js/pages/quilljs.init.js') }}"></script>
+<script src="{{ asset('backend/assets/js/pages/quilljs.init.js') }}"></script>
 
 <!-- Bootstrap Touchspin Plugin js -->
-<script src="{{ asset('assets/vendor/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js') }}"></script>
 
 <!-- App js -->
-<script src="{{ asset('assets/js/app.min.js') }}"></script>
+<script src="{{ asset('backend/assets/js/app.min.js') }}"></script>
 
 <!-- Typehead Plugin js -->
-<script src="{{ asset('assets/vendor/handlebars/handlebars.min.js') }}"></script>
-<script src="{{ asset('assets/vendor/typeahead.js/typeahead.bundle.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/handlebars/handlebars.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/typeahead.js/typeahead.bundle.min.js') }}"></script>
 
 <!-- Typehead Demo js -->
-<script src="{{ asset('assets/js/pages/typehead.init.js') }}"></script>
+<script src="{{ asset('backend/assets/js/pages/typehead.init.js') }}"></script>
 
 <!-- Flatpickr Timepicker Plugin js -->
-<script src="{{ asset('assets/vendor/flatpickr/flatpickr.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/flatpickr/flatpickr.min.js') }}"></script>
 
 <!-- Timepicker Demo js -->
-<script src="{{ asset('assets/js/pages/timepicker.init.js') }}"></script>
+<script src="{{ asset('backend/assets/js/pages/timepicker.init.js') }}"></script>
 
 <!-- Input Mask Plugin js -->
-<script src="{{ asset('assets/vendor/jquery-mask-plugin/jquery.mask.min.js') }}"></script>
+<script src="{{ asset('backend/assets/vendor/jquery-mask-plugin/jquery.mask.min.js') }}"></script>
 
-<!--  Select2 Plugin Js -->
-<script src="{{ asset('assets/vendor/select2/js/select2.min.js') }}"></script>
+<!-- Select2 Plugin Js -->
+<script src="{{ asset('backend/assets/vendor/select2/js/select2.min.js') }}"></script>
 
 <!-- Custom Js -->
-<script src="{{ asset('assets/js/custom.js') }}"></script>
-
-
+<script src="{{ asset('backend/assets/js/custom.js') }}"></script>
 
 <script>
     $(function() {
@@ -350,8 +350,7 @@
     }
 </style>
 
-<script src="{{ asset('assets/js/loader.js') }}"></script>
-
+<script src="{{ asset('backend/assets/js/loader.js') }}"></script>
 <!-- END OF AJAX LOADER -->
 </body>
 

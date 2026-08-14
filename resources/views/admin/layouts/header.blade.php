@@ -11,43 +11,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}">
+    <link rel="shortcut icon" href="{{ asset('backend/assets/images/favicon.png') }}">
 
     <!-- Select2 css -->
-    <link href="{{ asset('assets/vendor/select2/css/select2.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('backend/assets/vendor/select2/css/select2.min.css') }}" rel="stylesheet" type="text/css" />
 
     <!-- Daterangepicker css -->
-    <link rel="stylesheet" href="{{ asset('assets/vendor/daterangepicker/daterangepicker.css') }}">
+    <link rel="stylesheet" href="{{ asset('backend/assets/vendor/daterangepicker/daterangepicker.css') }}">
 
     <!-- Bootstrap Timepicker css -->
-    <link href="{{ asset('assets/vendor/bootstrap-timepicker/css/bootstrap-timepicker.min.css') }}" rel="stylesheet"
-        type="text/css" />
+    <link href="{{ asset('backend/assets/vendor/bootstrap-timepicker/css/bootstrap-timepicker.min.css') }}"
+        rel="stylesheet" type="text/css" />
 
     <!-- Flatpickr Timepicker css -->
-    <link href="{{ asset('assets/vendor/flatpickr/flatpickr.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('backend/assets/vendor/flatpickr/flatpickr.min.css') }}" rel="stylesheet" type="text/css" />
 
     <!-- Vector Map css -->
     <link rel="stylesheet"
-        href="{{ asset('assets/vendor/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.css') }}">
+        href="{{ asset('backend/assets/vendor/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.css') }}">
 
     <!-- Bootstrap Touchspin css -->
-    <link href="{{ asset('assets/vendor/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css') }}" rel="stylesheet"
-        type="text/css" />
+    <link href="{{ asset('backend/assets/vendor/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css') }}"
+        rel="stylesheet" type="text/css" />
 
     <!-- Theme Config Js -->
-    <script src="{{ asset('assets/js/config.js') }}"></script>
+    <script src="{{ asset('backend/assets/js/config.js') }}"></script>
 
     <!-- App css -->
-    <link href="{{ asset('assets/css/app.min.css') }}" rel="stylesheet" type="text/css" id="app-style" />
+    <link href="{{ asset('backend/assets/css/app.min.css') }}" rel="stylesheet" type="text/css" id="app-style" />
 
     <!-- Icons css -->
-    <link href="{{ asset('assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('backend/assets/css/icons.min.css') }}" rel="stylesheet" type="text/css" />
 
     <!-- Quill css -->
-    <link href="{{ asset('assets/vendor/quill/quill.core.css') }}" rel="stylesheet" type="text/css" />
-    <link href="{{ asset('assets/vendor/quill/quill.snow.css') }}" rel="stylesheet" type="text/css" />
-    <link href="{{ asset('assets/vendor/quill/quill.bubble.css') }}" rel="stylesheet" type="text/css" />
-
+    <link href="{{ asset('backend/assets/vendor/quill/quill.core.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('backend/assets/vendor/quill/quill.snow.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('backend/assets/vendor/quill/quill.bubble.css') }}" rel="stylesheet" type="text/css" />
 </head>
 <style>
     .table-container {
